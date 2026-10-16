@@ -1,1 +1,1 @@
-Still developing my first gameboy emulator in C++
+Developing my first gameboy emulator in C++
