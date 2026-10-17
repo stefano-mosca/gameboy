@@ -37,6 +37,4 @@ struct Cartridge {
     bool load(const std::string &path);
 };
 
-bool check_mbc(MBC mbc);
-
 #endif
